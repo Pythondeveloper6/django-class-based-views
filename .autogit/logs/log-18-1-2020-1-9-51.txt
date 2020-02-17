@@ -1,0 +1,19 @@
+-------------------- Auto-Git Log --------------------
+		Tue Feb 18 2020 01:09:51 GMT+0200 (Eastern European Standard Time)
+------------------------------------------------------
+
+Modified files:
+* post/urls.py
+* post/views.py
+
+
+Created files:
+* .autogit/logs/log-18-1-2020-0-39-42.txt
+* post/templates/post/post_detail.html
+
+
+Deleted files:
+
+
+Renamed files:
+* [object Object]
